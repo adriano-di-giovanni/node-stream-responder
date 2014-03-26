@@ -1,0 +1,20 @@
+{
+	"name": "node-stream-responder",
+	"version": "0.1.0",
+	"description": "",
+	"main": "lib/StreamResponder.js",
+	"scripts": {
+		"test": "mocha -R spec test/index.js"
+	},
+	"author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+	"contributors": [
+		"Luigi Lescarini <giggioz@gmail.com>"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"string": "~1.8.0"
+	},
+	"devDependencies": {
+		"underscore": "~1.6.0"
+	}
+}
