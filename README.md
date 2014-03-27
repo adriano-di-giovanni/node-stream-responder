@@ -14,7 +14,7 @@ npm install node-stream-responder --save
 
 ## Usage
 
-```
+```javascript
 var
 	StreamResponder = require('node-stream-responder');
 
