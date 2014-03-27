@@ -1,35 +1,35 @@
 {
-  "name": "node-stream-responder",
-  "version": "0.1.1",
-  "description": "Interact programmatically with duplex streams. Similar to Unix's expect.",
-  "main": "lib/StreamResponder.js",
-  "scripts": {
-    "test": "mocha -R spec test/index.js"
-  },
-  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
-  "contributors": [
-    "Luigi Lescarini <giggioz@gmail.com>"
-  ],
-  "license": "MIT",
-  "dependencies": {
-    "string": "~1.8.0"
-  },
-  "devDependencies": {},
-  "keywords": [
-    "node",
-    "unix",
-    "expect",
-    "stream"
-  ],
-  "directories": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/adriano-di-giovanni/node-stream-responder.git"
-  },
-  "bugs": {
-    "url": "https://github.com/adriano-di-giovanni/node-stream-responder/issues"
-  },
-  "homepage": "https://github.com/adriano-di-giovanni/node-stream-responder"
+	"name": "node-stream-responder",
+	"version": "0.1.2",
+	"description": "Interact programmatically with duplex streams. Similar to Unix's expect.",
+	"main": "lib/StreamResponder.js",
+	"scripts": {
+		"test": "mocha -R spec test/index.js"
+	},
+	"author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+	"contributors": [
+		"Luigi Lescarini <giggioz@gmail.com>"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"string": "~1.8.0"
+	},
+	"devDependencies": {},
+	"keywords": [
+		"node",
+		"unix",
+		"expect",
+		"stream"
+	],
+	"directories": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adriano-di-giovanni/node-stream-responder.git"
+	},
+	"bugs": {
+		"url": "https://github.com/adriano-di-giovanni/node-stream-responder/issues"
+	},
+	"homepage": "https://github.com/adriano-di-giovanni/node-stream-responder"
 }
