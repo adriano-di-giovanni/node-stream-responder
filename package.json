@@ -1,6 +1,6 @@
 {
 	"name": "node-stream-responder",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "Interact programmatically with duplex streams. Similar to Unix's expect.",
 	"main": "lib/StreamResponder.js",
 	"scripts": {
